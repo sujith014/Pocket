@@ -41,8 +41,6 @@ Pocket Reader is an Android app built with **Kotlin** and **Jetpack Compose** th
 
 ### Screenshots
 
-> Update the image paths once you add screenshots under `assets/`.
-
 | Home | WebView (Mobile)|
 |------|------------------|-------------------|
 | ![](assets/Home.png) | ![](assets/WebView.png) |
@@ -89,8 +87,7 @@ app/
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/sujith014/pocket.git
-   cd pocket
+   git clone https://github.com/sujith014/Pocket.git
    ```
 2. Open the project in **Android Studio** (Giraffe or newer)  
 3. Let Gradle sync  
